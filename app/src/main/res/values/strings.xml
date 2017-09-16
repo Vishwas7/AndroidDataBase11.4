@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Data Base 11.4</string>
+    <string name="view_data">View Data</string>
+    <string name="add_data">ADD DATA</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+</resources>
